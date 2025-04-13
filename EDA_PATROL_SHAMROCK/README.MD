@@ -2,6 +2,7 @@ Project Structure
 1. challenge_shamrock(main).ipynb: Core script for data preprocessing, Linear Regression, and ARIMA-based forecasting with visualizations.
 
 2. challenge_shamrock(interactive_dashboard).ipynb: Jupyter Notebook with an interactive dashboard using Streamlit for exploring IPC crime trends year-wise and state-wise. "Please run: !ngrok config add-authtoken 2vdfKp60gecnjpSX8QshzTEXQIh_5RRSLC1nEmgbxFCwGEqdm (3rd cell before the 2nd to get the steamlit running)"
+ACTIVE STREAMLIT LINK: https://71af-35-245-111-135.ngrok-free.app/
 
 3. report.pdf: Detailed report summarizing methodology, analysis, model comparison, and key insights.
 
